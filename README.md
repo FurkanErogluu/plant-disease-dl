@@ -65,6 +65,9 @@ hiperparametreleri daha iyi deneyip gridSearch gibi fonksiyonlar ile daha kapsam
 ![Confusion Matrix](Confusion_Matrix.png)  
 ![Heatmap](figures/fig_Heatmap.png)  
 
+
+
+İstenen modellemeler ve goruntulerin açılmama durumunda kaggle uzerinden bakılabilir.
 ---
 
 ## Link
