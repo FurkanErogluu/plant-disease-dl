@@ -58,8 +58,10 @@ hiperparametreleri daha iyi deneyip gridSearch gibi fonksiyonlar ile daha kapsam
 ---
 
 ## Görseller
-
-![Accuracy vs Loss](figures/fig_accuracy_loss.png)  
+![Accurasy Validation loss](Accuracy.png)
+![Accuracy vs Loss](figures/fig_Accuracy_vs_Loss.png) 
+![Images](figures/fig_image.png)  
+![Nine Images ](figures/fig_Nine_images.png)
 ![Confusion Matrix](figures/fig_confusion_matrix.png)  
 ![Grad-CAM Örneği](figures/gradcam_0.png)  
 
